@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/Greg-Larson-NY/Greg-Larson-NY/main/git%20header.jpg "Header")](https://www.linkedin.com/in/greglarson-ny/)
 <h1 align="center">Hello 👋, I'm Greg</h1>
 <h3 align="center">A "learning" frontend developer from Western NY</h3>
 
