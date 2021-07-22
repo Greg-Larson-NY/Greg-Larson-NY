@@ -3,7 +3,7 @@
 <h3 align="center">A "learning" frontend developer from Western NY</h3>
 
 - 🔭 I’m currently working on [my first websites](https://greg-larson-ny.github.io/Vees-Apothecary-Site/)
-
+- :arrow_forward: Check out my Coding & Craft Trivia game on [Kahoot](https://create.kahoot.it/share/coding-and-craft/09b04aa2-2b9c-4407-ba8f-c0031d7cdf76)
 - 🌱 I’m currently learning **everything I can.**
 
 - 📫 How to reach me **gregory.larson.career@gmail.com**
